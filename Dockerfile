@@ -1,6 +1,6 @@
 FROM openjdk:8-jre-alpine
 
-ENV JAVA_APP_JAR simple-web-application-3.5.0-fat.jar
+ENV JAVA_APP_JAR homeix-base-3.5.0-fat.jar
 
 EXPOSE 8080
 
